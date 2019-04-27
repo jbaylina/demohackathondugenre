@@ -1,2 +1,3 @@
 # Ma super application
-## Changement sur mon premier repo
+## Changement sur la copie
+conflit resolu
